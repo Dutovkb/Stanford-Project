@@ -56,15 +56,23 @@
 		0B044D1C25A8E35D0024518E /* Stanford – Project 1 */ = {
 			isa = PBXGroup;
 			children = (
-				0B044D1D25A8E35D0024518E /* AppDelegate.swift */,
-				0B044D1F25A8E35D0024518E /* SceneDelegate.swift */,
+				0B044D3225A8E5AB0024518E /* Supporting files */,
 				0B044D2125A8E35D0024518E /* ViewController.swift */,
 				0B044D2325A8E35D0024518E /* Main.storyboard */,
-				0B044D2625A8E3610024518E /* Assets.xcassets */,
-				0B044D2825A8E3610024518E /* LaunchScreen.storyboard */,
 				0B044D2B25A8E3610024518E /* Info.plist */,
 			);
 			path = "Stanford – Project 1";
+			sourceTree = "<group>";
+		};
+		0B044D3225A8E5AB0024518E /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				0B044D1D25A8E35D0024518E /* AppDelegate.swift */,
+				0B044D1F25A8E35D0024518E /* SceneDelegate.swift */,
+				0B044D2625A8E3610024518E /* Assets.xcassets */,
+				0B044D2825A8E3610024518E /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
